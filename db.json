@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": "123456",
+      "name": "Rubens",
+      "lastName": "Junio",
+      "age": 20,
+      "email": "rubens@example.com",
+      "phone": "+55 11 91234-5678",
+      "gender": "male",
+      "birthDate": "2004-08-15",
+      "nationality": "Brazilian",
+      "document": {
+        "type": "CPF",
+        "number": "123.456.789-00"
+      },
+      "address": {
+        "street": "Rua das Flores",
+        "number": "123",
+        "complement": "Apto 202",
+        "neighborhood": "Jardim Primavera",
+        "city": "São Paulo",
+        "state": "SP",
+        "zipCode": "01234-567",
+        "country": "Brazil"
+      },
+      "hobbies": ["musculação", "muay thai"],
+      "termsAccepted": true,
+      "profilePicture": null
+    }
+  ]
+}
