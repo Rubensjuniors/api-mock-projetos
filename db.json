@@ -1,7 +1,7 @@
 {
   "users": [
     {
-      "id": "123456",
+      "id": 1,
       "name": "Rubens",
       "lastName": "Junio",
       "age": 20,
@@ -24,9 +24,19 @@
         "zipCode": "01234-567",
         "country": "Brazil"
       },
-      "hobbies": ["musculação", "muay thai"],
       "termsAccepted": true,
       "profilePicture": null
     }
-  ]
+  ],
+
+  "lrhub": {
+    "expenses": [
+      {
+        "id": 1,
+        "name": "Aluguel",
+        "value": 1000,
+        "date": "2024-01-01"
+      }
+    ]
+  }
 }
