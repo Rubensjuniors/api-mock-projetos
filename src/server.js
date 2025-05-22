@@ -29,6 +29,6 @@ server.use(router)
 server.listen(port, () => {
   console.log(`JSON Server rodando em http://localhost:${port}`)
   console.log('\nRecursos disponíveis:')
-  console.log(`http://localhost:${port}/users`)
+  console.log(`http://localhost:${port}/clients`)
   console.log(`http://localhost:${port}/lrhub/expenses`)
 })
